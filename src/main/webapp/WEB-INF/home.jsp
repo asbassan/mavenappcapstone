@@ -12,7 +12,7 @@
 </head>
 </head>
 <body>
- <h1 align="center">Simplilearn September  2021- Capstone project submission</h1>
+ <h1 align="center">Simplilearn September  2021- Capstone project submission - tesing</h1>
 <h1 align="center">This is the sample webapp deployed to tomcat</h1>
 <h2 align="center">Submitted by Amarpreet Bassan</h2>
 </body>
